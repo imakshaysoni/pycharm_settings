@@ -21,6 +21,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="bool.__getitem__" />
+        <option value="arnparse.arnparse.arnparse" />
       </list>
     </option>
   </inspection_tool>
