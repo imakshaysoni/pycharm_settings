@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="tfstate" type="AUTO_DETECTED" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="env" type="Env File" />
       <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
