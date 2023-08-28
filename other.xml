@@ -7,6 +7,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
     "PyCharm.InitialConfiguration": "true",
     "PyCharm.InitialConfiguration.V2": "true",
     "PyCharm.InitialConfiguration.V3": "true",
@@ -15,17 +16,26 @@
     "PyCharm.InitialConfiguration.V6": "true",
     "PyCharm.InitialConfiguration.V7": "true",
     "PyCharm.InitialConfiguration.V8": "true",
+    "appcds.runOnSecondStart": "PC-232.9559.58-70cb0c555790616f4bb497f0bf1b8b65229b9f7b0126f557e5f10be516d78000",
     "bundled.plugins.list.saved.version": "PC-232.9559.58",
     "experimental.ui.first.promotion.localdate": "2023-08-26",
     "experimentalFeature.terminal.shell.command.handling": "false",
     "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "18.0",
     "fontSizeToResetEditor": "18.0",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "PC-232.9559.58",
     "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/akshay/Documents/MyScripts",
+    "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_One Dark Vivid Italic",
+    "registry.to.advanced.settings.migration.build": "PC-232.9559.58",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/akshay/Documents/MyScripts"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
