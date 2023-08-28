@@ -20,20 +20,20 @@
     <feature id="vcs.use.integration" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.close.all.editors" count="1" last-shown="0" last-used="1693213317705" shown-count="0" />
+    <feature id="ui.close.all.editors" count="2" last-shown="0" last-used="1693231319942" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.convert.line.separators" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="2" last-shown="0" last-used="1693027020734" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="4" last-shown="0" last-used="1693232077110" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.annotate" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="vcs.annotate" count="2" last-shown="0" last-used="1693232071047" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.context.actions" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -45,7 +45,7 @@
     <feature id="navigation.find.in.files" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.replace" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.replace" count="1" last-shown="0" last-used="1693231635130" shown-count="0" />
     <feature id="ui.hide.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />

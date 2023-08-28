@@ -6,17 +6,23 @@
     <e n="$Delete">
       <i c="5" l="1693209307005" />
     </e>
+    <e n="$SelectAll">
+      <i c="2" l="1693231774769" />
+    </e>
     <e n="$Undo">
-      <i c="3" l="1693213356681" />
+      <i c="10" l="1693231684537" />
+    </e>
+    <e n="Annotate">
+      <i c="2" l="1693232071045" />
     </e>
     <e n="CloseAllEditors">
-      <i c="1" l="1693213317570" />
+      <i c="2" l="1693231319873" />
     </e>
     <e n="CommentByLineComment">
       <i c="2" l="1693209248039" />
     </e>
     <e n="EditorBackSpace">
-      <i c="93" l="1693213751442" />
+      <i c="140" l="1693232039718" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
@@ -25,43 +31,43 @@
       <i c="10" l="1693212654347" />
     </e>
     <e n="EditorCopy">
-      <i c="2" l="1693026894163" />
+      <i c="4" l="1693231913765" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1693209516101" />
     </e>
     <e n="EditorDelete">
-      <i c="2" l="1693213628674" />
+      <i c="5" l="1693231657856" />
     </e>
     <e n="EditorDown">
-      <i c="73" l="1693213824052" />
+      <i c="87" l="1693232051006" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="111" l="1693213781758" />
+      <i c="117" l="1693215394312" />
     </e>
     <e n="EditorEnter">
-      <i c="16" l="1693213536839" />
+      <i c="21" l="1693232052726" />
     </e>
     <e n="EditorIndentSelection">
       <i c="2" l="1693027082894" />
     </e>
     <e n="EditorLeft">
-      <i c="88" l="1693213745421" />
+      <i c="90" l="1693231656885" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="110" l="1693213780194" />
     </e>
     <e n="EditorLineEnd">
-      <i c="13" l="1693213453487" />
+      <i c="15" l="1693232051775" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="24" l="1693213494481" />
+      <i c="25" l="1693231919564" />
     </e>
     <e n="EditorLineStart">
-      <i c="14" l="1693213491733" />
+      <i c="15" l="1693231917990" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="37" l="1693213835671" />
+      <i c="38" l="1693231910782" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1693026917226" />
@@ -70,49 +76,67 @@
       <i c="1" l="1693026918051" />
     </e>
     <e n="EditorPaste">
-      <i c="5" l="1693209517028" />
+      <i c="9" l="1693231920571" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693213353864" />
     </e>
     <e n="EditorRight">
-      <i c="113" l="1693213832114" />
+      <i c="117" l="1693232043431" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="45" l="1693213779111" />
     </e>
     <e n="EditorTab">
-      <i c="3" l="1693026827563" />
+      <i c="4" l="1693231991733" />
     </e>
     <e n="EditorUp">
-      <i c="53" l="1693213565106" />
+      <i c="64" l="1693232045258" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="103" l="1693213834961" />
+      <i c="129" l="1693231912923" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2" l="1693027020688" />
+      <i c="4" l="1693232077088" />
     </e>
     <e n="NewDir">
       <i c="2" l="1693209338975" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1693231587766" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1693230878068" />
+    </e>
+    <e n="Replace">
+      <i c="1" l="1693231634921" />
     </e>
     <e n="Run">
       <i c="1" l="1693026676810" />
     </e>
     <e n="RunClass">
-      <i c="19" l="1693213695125" />
+      <i c="30" l="1693231925385" />
     </e>
     <e n="SaveAll">
       <i c="1" l="1693209551857" />
     </e>
     <e n="Stop">
-      <i c="2" l="1693213374723" />
+      <i c="11" l="1693231980786" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="100" l="1693230929683" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="82" l="1693230929956" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693026597435" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
       <i c="3" l="1693027123641" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1693231865001" />
     </e>
     <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
       <i c="1" l="1693026696980" />
