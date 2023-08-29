@@ -10,10 +10,10 @@
       <i c="1" l="1693287414764" />
     </e>
     <e n="$SelectAll">
-      <i c="11" l="1693290161690" />
+      <i c="12" l="1693308415400" />
     </e>
     <e n="$Undo">
-      <i c="44" l="1693305957232" />
+      <i c="57" l="1693308280096" />
     </e>
     <e n="Annotate">
       <i c="5" l="1693304954810" />
@@ -25,58 +25,58 @@
       <i c="4" l="1693304790170" />
     </e>
     <e n="CommentByLineComment">
-      <i c="12" l="1693305939594" />
+      <i c="16" l="1693308514569" />
     </e>
     <e n="EditorBackSpace">
-      <i c="710" l="1693306183427" />
+      <i c="757" l="1693308612077" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="61" l="1693306142825" />
+      <i c="65" l="1693308376660" />
     </e>
     <e n="EditorCopy">
-      <i c="45" l="1693306153743" />
+      <i c="49" l="1693308601846" />
     </e>
     <e n="EditorCut">
-      <i c="16" l="1693306157792" />
+      <i c="17" l="1693306432511" />
     </e>
     <e n="EditorDelete">
-      <i c="133" l="1693306148681" />
+      <i c="144" l="1693308294027" />
     </e>
     <e n="EditorDown">
-      <i c="494" l="1693306163131" />
+      <i c="605" l="1693308613040" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="353" l="1693305073514" />
+      <i c="368" l="1693308334545" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1693305910174" />
     </e>
     <e n="EditorEnter">
-      <i c="141" l="1693306160245" />
+      <i c="147" l="1693308551943" />
     </e>
     <e n="EditorIndentSelection">
       <i c="10" l="1693288114173" />
     </e>
     <e n="EditorLeft">
-      <i c="663" l="1693306176519" />
+      <i c="677" l="1693308586583" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="294" l="1693306153143" />
     </e>
     <e n="EditorLineEnd">
-      <i c="43" l="1693306181194" />
+      <i c="46" l="1693308535998" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="99" l="1693305430612" />
+      <i c="102" l="1693308587432" />
     </e>
     <e n="EditorLineStart">
-      <i c="31" l="1693306162419" />
+      <i c="32" l="1693306422018" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="146" l="1693306181659" />
+      <i c="150" l="1693308518631" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1693026917226" />
@@ -85,13 +85,13 @@
       <i c="2" l="1693284366859" />
     </e>
     <e n="EditorPaste">
-      <i c="60" l="1693306160873" />
+      <i c="63" l="1693308341931" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693213353864" />
     </e>
     <e n="EditorRight">
-      <i c="859" l="1693306180536" />
+      <i c="876" l="1693308606364" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="254" l="1693297854296" />
@@ -103,10 +103,13 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="388" l="1693306161776" />
+      <i c="443" l="1693308611199" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="294" l="1693306156761" />
+      <i c="302" l="1693308517830" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1693308409794" />
     </e>
     <e n="FindInPath">
       <i c="1" l="1693297067058" />
@@ -115,7 +118,7 @@
       <i c="1" l="1693292624015" />
     </e>
     <e n="GotoDeclaration">
-      <i c="58" l="1693305682461" />
+      <i c="59" l="1693306542613" />
     </e>
     <e n="NewDir">
       <i c="2" l="1693209338975" />
@@ -127,7 +130,7 @@
       <i c="1" l="1693231587766" />
     </e>
     <e n="OpenFile">
-      <i c="5" l="1693304803427" />
+      <i c="6" l="1693306253695" />
     </e>
     <e n="RenameElement">
       <i c="3" l="1693244983976" />
@@ -142,10 +145,10 @@
       <i c="1" l="1693026676810" />
     </e>
     <e n="RunClass">
-      <i c="84" l="1693306220388" />
+      <i c="91" l="1693308569056" />
     </e>
     <e n="SaveAll">
-      <i c="3" l="1693306244215" />
+      <i c="6" l="1693308619120" />
     </e>
     <e n="Stop">
       <i c="13" l="1693245057006" />
@@ -178,7 +181,7 @@
       <i c="2" l="1693297080592" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
-      <i c="2" l="1693305828914" />
+      <i c="3" l="1693308351467" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="2" l="1693231865001" />
