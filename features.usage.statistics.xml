@@ -27,7 +27,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="25" last-shown="0" last-used="1693292676321" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="43" last-shown="0" last-used="1693297502730" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,7 +42,7 @@
     <feature id="editing.reformat.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find.in.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.find.in.files" count="1" last-shown="0" last-used="1693297067333" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.replace" count="2" last-shown="0" last-used="1693290137756" shown-count="0" />
@@ -99,10 +99,10 @@
       <option name="lastDate" value="1693247400000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="3" />
+      <option name="invocations" value="5" />
       <option name="startDate" value="1692988200000" />
-      <option name="dayCount" value="2" />
-      <option name="lastDate" value="1693161000000" />
+      <option name="dayCount" value="3" />
+      <option name="lastDate" value="1693247400000" />
     </fixesStatsTag>
   </component>
 </application>
