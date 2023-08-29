@@ -1,9 +1,9 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1804" height="383" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1804" height="383" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1804" height="383" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1804" height="383" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1804" height="226" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1804" height="226" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1804" height="226" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1804" height="226" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="779" y="244" width="424" height="491" key="FileChooserDialogImpl" timestamp="1693026604835">
