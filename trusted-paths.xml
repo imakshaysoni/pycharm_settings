@@ -3,7 +3,9 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/Documents/MyScripts" value="true" />
+        <entry key="$USER_HOME$/Documents/denali" value="true" />
         <entry key="$USER_HOME$/Documents/denali/data_scanner" value="true" />
+        <entry key="$USER_HOME$/Documents/denali/scanner_lambda" value="true" />
       </map>
     </option>
   </component>
