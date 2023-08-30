@@ -13,7 +13,7 @@
       <i c="14" l="1693314535735" />
     </e>
     <e n="$Undo">
-      <i c="75" l="1693316681705" />
+      <i c="79" l="1693318692596" />
     </e>
     <e n="Annotate">
       <i c="9" l="1693316761883" />
@@ -28,58 +28,58 @@
       <i c="17" l="1693316654054" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1046" l="1693316753404" />
+      <i c="1084" l="1693319390203" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="82" l="1693316802413" />
+      <i c="83" l="1693319033417" />
     </e>
     <e n="EditorCopy">
-      <i c="63" l="1693316341455" />
+      <i c="65" l="1693319362532" />
     </e>
     <e n="EditorCut">
       <i c="26" l="1693316774551" />
     </e>
     <e n="EditorDelete">
-      <i c="186" l="1693316831249" />
+      <i c="187" l="1693318442770" />
     </e>
     <e n="EditorDown">
-      <i c="751" l="1693316827750" />
+      <i c="787" l="1693319417988" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="416" l="1693315940046" />
+      <i c="515" l="1693319408713" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1693305910174" />
     </e>
     <e n="EditorEnter">
-      <i c="204" l="1693316798708" />
+      <i c="218" l="1693319383038" />
     </e>
     <e n="EditorIndentSelection">
-      <i c="10" l="1693288114173" />
+      <i c="11" l="1693319645634" />
     </e>
     <e n="EditorLeft">
-      <i c="864" l="1693316820721" />
+      <i c="939" l="1693319269482" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="339" l="1693315317682" />
+      <i c="385" l="1693318676614" />
     </e>
     <e n="EditorLineEnd">
-      <i c="53" l="1693316823614" />
+      <i c="72" l="1693319251234" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="135" l="1693316830909" />
+      <i c="187" l="1693319271930" />
     </e>
     <e n="EditorLineStart">
-      <i c="52" l="1693316603910" />
+      <i c="55" l="1693318891181" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="193" l="1693315697761" />
+      <i c="301" l="1693319389202" />
     </e>
     <e n="EditorPageDown">
-      <i c="2" l="1693315323617" />
+      <i c="3" l="1693318876000" />
     </e>
     <e n="EditorPageDownWithSelection">
       <i c="2" l="1693315328367" />
@@ -91,13 +91,13 @@
       <i c="82" l="1693316777453" />
     </e>
     <e n="EditorPasteFromX11">
-      <i c="3" l="1693314292942" />
+      <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="1004" l="1693316820483" />
+      <i c="1069" l="1693319388464" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="387" l="1693316000096" />
+      <i c="390" l="1693319057033" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1693314205478" />
@@ -109,10 +109,10 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="540" l="1693316797779" />
+      <i c="574" l="1693319388185" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="481" l="1693316830167" />
+      <i c="716" l="1693319420146" />
     </e>
     <e n="Find">
       <i c="2" l="1693308409794" />
@@ -124,7 +124,7 @@
       <i c="1" l="1693292624015" />
     </e>
     <e n="GotoDeclaration">
-      <i c="68" l="1693316662476" />
+      <i c="69" l="1693319158959" />
     </e>
     <e n="NewDir">
       <i c="5" l="1693314645275" />
@@ -151,13 +151,13 @@
       <i c="1" l="1693026676810" />
     </e>
     <e n="RunClass">
-      <i c="96" l="1693316656418" />
+      <i c="100" l="1693319654004" />
     </e>
     <e n="SaveAll">
       <i c="6" l="1693308619120" />
     </e>
     <e n="Stop">
-      <i c="17" l="1693314257725" />
+      <i c="18" l="1693319359085" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="3" l="1693316741299" />
@@ -187,7 +187,7 @@
       <i c="2" l="1693297080592" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
-      <i c="3" l="1693308351467" />
+      <i c="6" l="1693319649212" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="2" l="1693231865001" />
