@@ -22,6 +22,7 @@
       <list>
         <option value="bool.__getitem__" />
         <option value="arnparse.arnparse.arnparse" />
+        <option value="specific_group_names" />
       </list>
     </option>
   </inspection_tool>
