@@ -37,7 +37,7 @@
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1693456129372" />
+              <option name="activationTimestamp" value="1693833826934" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
@@ -52,7 +52,7 @@
         <entry key="$USER_HOME$/Documents/denali">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1693491260077" />
+              <option name="activationTimestamp" value="1693830493053" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
@@ -64,7 +64,7 @@
         <entry key="$USER_HOME$/Documents/MyScripts">
           <value>
             <RecentProjectMetaInfo frameTitle="MyScripts – prepend_content.py" opened="true" projectWorkspaceId="2Q0rMtBds0twSduPFWH9ZOlMf7K">
-              <option name="activationTimestamp" value="1693544164824" />
+              <option name="activationTimestamp" value="1693813727492" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
@@ -79,14 +79,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/PersonalStuff/ZipLambdas/lambdas">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2ULFiWwieNVG9sutd8GxCrkpmhh">
-              <option name="activationTimestamp" value="1693455109191" />
+            <RecentProjectMetaInfo frameTitle="lambdas – model.py" projectWorkspaceId="2ULFiWwieNVG9sutd8GxCrkpmhh">
+              <option name="activationTimestamp" value="1693806429826" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
+              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1693382041949" />
             </RecentProjectMetaInfo>
@@ -94,7 +95,7 @@
         </entry>
         <entry key="$USER_HOME$/Downloads/##PersonalStuff/final-cd-scripts">
           <value>
-            <RecentProjectMetaInfo frameTitle="final-cd-scripts – list_all_aws_resources_all_regions.py" opened="true" projectWorkspaceId="2UewiVx7OYjIbGQkGQYIkaBs4Oe">
+            <RecentProjectMetaInfo frameTitle="final-cd-scripts – list_all_aws_resources_all_regions.py" projectWorkspaceId="2UewiVx7OYjIbGQkGQYIkaBs4Oe">
               <option name="activationTimestamp" value="1693455627709" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
@@ -110,6 +111,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/MyScripts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali/scanner" />
   </component>
 </application>

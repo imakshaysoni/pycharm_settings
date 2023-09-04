@@ -12796,6 +12796,10 @@
           {
             "pluginIdString": "net.postchain.rellide.jetbrains",
             "nullablePluginName": "Rell"
+          },
+          {
+            "pluginIdString": "net.postchain.rellide.jetbrains.ultimate",
+            "nullablePluginName": "Rell Ultimate"
           }
         ]
       },
@@ -18998,7 +19002,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693455131141
+    "lastUpdateTime": 1693806084542
   },
   "dependencies": {
     "featureMap": {
@@ -20603,7 +20607,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693455131570
+    "lastUpdateTime": 1693806084835
   }
 }]]></component>
   <component name="PluginFeatureService">{
