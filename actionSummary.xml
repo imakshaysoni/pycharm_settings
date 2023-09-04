@@ -34,10 +34,10 @@
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="134" l="1693831991905" />
+      <i c="135" l="1693845055508" />
     </e>
     <e n="EditorCopy">
-      <i c="228" l="1693842931775" />
+      <i c="229" l="1693844864283" />
     </e>
     <e n="EditorCut">
       <i c="43" l="1693842508772" />
@@ -61,7 +61,7 @@
       <i c="14" l="1693829900607" />
     </e>
     <e n="EditorLeft">
-      <i c="1302" l="1693842832752" />
+      <i c="1303" l="1693845053864" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="471" l="1693831221394" />
@@ -121,13 +121,13 @@
       <i c="7" l="1693842798919" />
     </e>
     <e n="FindInPath">
-      <i c="5" l="1693825268497" />
+      <i c="6" l="1693845014724" />
     </e>
     <e n="Forward">
       <i c="2" l="1693810728849" />
     </e>
     <e n="GotoDeclaration">
-      <i c="167" l="1693835711393" />
+      <i c="169" l="1693845046080" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -157,7 +157,7 @@
       <i c="107" l="1693808861460" />
     </e>
     <e n="SaveAll">
-      <i c="59" l="1693842939453" />
+      <i c="61" l="1693845062872" />
     </e>
     <e n="Stop">
       <i c="19" l="1693455770806" />
@@ -189,6 +189,9 @@
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="8" l="1693833551482" />
     </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1693845024701" />
+    </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="4" l="1693825270367" />
     </e>
@@ -205,10 +208,10 @@
       <i c="1" l="1693808605226" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="3" l="1693297085436" />
+      <i c="12" l="1693845022226" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="4" l="1693297087764" />
+      <i c="8" l="1693845023087" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="5" l="1693832048434" />

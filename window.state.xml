@@ -1,11 +1,11 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.1920.1080" x="752" y="162" />
+    <location key="find.popup.0.0.1920.1080" x="751" y="162" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1804" height="165" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1804" height="165" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1804" height="165" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1804" height="165" />
-    <size key="find.popup.0.0.1920.1080" width="832" height="744" />
+    <size key="find.popup.0.0.1920.1080" width="620" height="744" />
   </component>
   <component name="WindowManager">
     <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
