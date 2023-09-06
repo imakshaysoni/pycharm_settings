@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="5" l="1694010183947" />
+      <i c="7" l="1694016922083" />
     </e>
     <e n="$Delete">
       <i c="8" l="1693833526659" />
@@ -19,7 +19,7 @@
       <i c="15" l="1693849412191" />
     </e>
     <e n="Back">
-      <i c="142" l="1694012849318" />
+      <i c="150" l="1694016543462" />
     </e>
     <e n="CloseAllEditors">
       <i c="7" l="1693977987056" />
@@ -28,25 +28,25 @@
       <i c="30" l="1694013039481" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1907" l="1694013583658" />
+      <i c="1972" l="1694017168798" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="153" l="1694013049862" />
+      <i c="160" l="1694017044671" />
     </e>
     <e n="EditorCopy">
-      <i c="280" l="1694013090731" />
+      <i c="291" l="1694017246846" />
     </e>
     <e n="EditorCut">
       <i c="45" l="1693979771271" />
     </e>
     <e n="EditorDelete">
-      <i c="528" l="1694013053751" />
+      <i c="535" l="1694017229926" />
     </e>
     <e n="EditorDown">
-      <i c="923" l="1694007076147" />
+      <i c="925" l="1694016248400" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="683" l="1694013475255" />
@@ -55,16 +55,16 @@
       <i c="2" l="1693908321376" />
     </e>
     <e n="EditorEnter">
-      <i c="368" l="1694012955624" />
+      <i c="379" l="1694017150193" />
     </e>
     <e n="EditorIndentSelection">
       <i c="14" l="1693829900607" />
     </e>
     <e n="EditorLeft">
-      <i c="1402" l="1694012043502" />
+      <i c="1436" l="1694017167105" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="498" l="1693850233130" />
+      <i c="516" l="1694017178386" />
     </e>
     <e n="EditorLineEnd">
       <i c="119" l="1694012803037" />
@@ -76,28 +76,28 @@
       <i c="63" l="1693978506577" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="391" l="1694013475939" />
+      <i c="392" l="1694014787014" />
     </e>
     <e n="EditorPageDown">
-      <i c="3" l="1693318876000" />
+      <i c="4" l="1694016554456" />
     </e>
     <e n="EditorPageDownWithSelection">
       <i c="2" l="1693315328367" />
     </e>
     <e n="EditorPageUp">
-      <i c="3" l="1693315323185" />
+      <i c="4" l="1694016553675" />
     </e>
     <e n="EditorPaste">
-      <i c="226" l="1694013095708" />
+      <i c="248" l="1694017250561" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="1532" l="1694013580061" />
+      <i c="1589" l="1694017124578" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="450" l="1693845870756" />
+      <i c="482" l="1694016460376" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1693314205478" />
@@ -112,7 +112,7 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="665" l="1693985431065" />
+      <i c="668" l="1694016164203" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="878" l="1694013474843" />
@@ -130,13 +130,13 @@
       <i c="3" l="1693979454614" />
     </e>
     <e n="GotoDeclaration">
-      <i c="289" l="1694013452620" />
+      <i c="298" l="1694016539456" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
     </e>
     <e n="NewFile">
-      <i c="11" l="1693829378823" />
+      <i c="12" l="1694014777819" />
     </e>
     <e n="NewPythonFile">
       <i c="1" l="1693231587766" />
@@ -151,19 +151,22 @@
       <i c="5" l="1693808594075" />
     </e>
     <e n="Rerun">
-      <i c="27" l="1693808887279" />
+      <i c="38" l="1694017210868" />
     </e>
     <e n="Run">
       <i c="1" l="1693026676810" />
     </e>
     <e n="RunClass">
-      <i c="107" l="1693808861460" />
+      <i c="119" l="1694016092381" />
     </e>
     <e n="SaveAll">
-      <i c="175" l="1694013587962" />
+      <i c="177" l="1694017253190" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1694016015578" />
     </e>
     <e n="Stop">
-      <i c="19" l="1693455770806" />
+      <i c="22" l="1694015751632" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="10" l="1693978349935" />
@@ -182,6 +185,9 @@
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693026597435" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1694016849696" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
       <i c="3" l="1693027123641" />
@@ -207,6 +213,9 @@
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
       <i c="8" l="1694011938759" />
     </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1694015922964" />
+    </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="9" l="1693831951510" />
     </e>
@@ -216,17 +225,35 @@
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1693808605226" />
     </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1694015205014" />
+    </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="23" l="1694011943870" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="13" l="1694011944227" />
     </e>
+    <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+      <i c="2" l="1694016020455" />
+    </e>
+    <e n="com.intellij.webcore.packaging.ManagePackagesDialog$1">
+      <i c="2" l="1694015992712" />
+    </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1693978350925" />
     </e>
+    <e n="com.jetbrains.python.packaging.ui.PyInstalledPackagesPanel$2">
+      <i c="3" l="1694015891778" />
+    </e>
     <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
       <i c="1" l="1693026696980" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="2" l="1694015601375" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1694015192497" />
     </e>
   </component>
 </application>
