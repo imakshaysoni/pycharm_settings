@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="4" l="1693289428344" />
+      <i c="5" l="1694010183947" />
     </e>
     <e n="$Delete">
       <i c="8" l="1693833526659" />
@@ -19,25 +19,25 @@
       <i c="15" l="1693849412191" />
     </e>
     <e n="Back">
-      <i c="104" l="1693985588729" />
+      <i c="136" l="1694011979581" />
     </e>
     <e n="CloseAllEditors">
       <i c="7" l="1693977987056" />
     </e>
     <e n="CommentByLineComment">
-      <i c="27" l="1693830721032" />
+      <i c="28" l="1694011897446" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1835" l="1694008947309" />
+      <i c="1852" l="1694012041481" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="141" l="1693846889422" />
+      <i c="148" l="1694012044138" />
     </e>
     <e n="EditorCopy">
-      <i c="267" l="1693986937881" />
+      <i c="277" l="1694011498657" />
     </e>
     <e n="EditorCut">
       <i c="45" l="1693979771271" />
@@ -55,13 +55,13 @@
       <i c="2" l="1693908321376" />
     </e>
     <e n="EditorEnter">
-      <i c="363" l="1693985430571" />
+      <i c="366" l="1694012002666" />
     </e>
     <e n="EditorIndentSelection">
       <i c="14" l="1693829900607" />
     </e>
     <e n="EditorLeft">
-      <i c="1370" l="1693978737690" />
+      <i c="1402" l="1694012043502" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="498" l="1693850233130" />
@@ -88,13 +88,13 @@
       <i c="3" l="1693315323185" />
     </e>
     <e n="EditorPaste">
-      <i c="221" l="1694008931459" />
+      <i c="224" l="1694011765384" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="1517" l="1693978738912" />
+      <i c="1526" l="1694012044879" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="450" l="1693845870756" />
@@ -106,7 +106,7 @@
       <i c="1" l="1693467604278" />
     </e>
     <e n="EditorTab">
-      <i c="32" l="1693846853394" />
+      <i c="35" l="1694012032901" />
     </e>
     <e n="EditorToggleInsertState">
       <i c="2" l="1693305527444" />
@@ -121,7 +121,7 @@
       <i c="13" l="1693985479152" />
     </e>
     <e n="FindInPath">
-      <i c="10" l="1694008931087" />
+      <i c="13" l="1694011931369" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1694008788500" />
@@ -130,7 +130,7 @@
       <i c="3" l="1693979454614" />
     </e>
     <e n="GotoDeclaration">
-      <i c="244" l="1694008970445" />
+      <i c="268" l="1694011953880" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -160,7 +160,7 @@
       <i c="107" l="1693808861460" />
     </e>
     <e n="SaveAll">
-      <i c="167" l="1693986942379" />
+      <i c="169" l="1694010927640" />
     </e>
     <e n="Stop">
       <i c="19" l="1693455770806" />
@@ -186,6 +186,9 @@
     <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
       <i c="3" l="1693027123641" />
     </e>
+    <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
+      <i c="1" l="1694011770672" />
+    </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
       <i c="12" l="1693985480703" />
     </e>
@@ -196,13 +199,13 @@
       <i c="1" l="1693985477169" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="3" l="1694008955796" />
+      <i c="5" l="1694011945147" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="6" l="1694008939038" />
+      <i c="8" l="1694011774506" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
-      <i c="6" l="1693845646245" />
+      <i c="8" l="1694011938759" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="9" l="1693831951510" />
@@ -214,10 +217,10 @@
       <i c="1" l="1693808605226" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="22" l="1694008954102" />
+      <i c="23" l="1694011943870" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="12" l="1694008955277" />
+      <i c="13" l="1694011944227" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1693978350925" />
