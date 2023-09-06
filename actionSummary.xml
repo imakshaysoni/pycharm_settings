@@ -19,16 +19,16 @@
       <i c="15" l="1693849412191" />
     </e>
     <e n="Back">
-      <i c="99" l="1693850224964" />
+      <i c="102" l="1693979452789" />
     </e>
     <e n="CloseAllEditors">
-      <i c="6" l="1693829175993" />
+      <i c="7" l="1693977987056" />
     </e>
     <e n="CommentByLineComment">
       <i c="27" l="1693830721032" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1802" l="1693908317802" />
+      <i c="1815" l="1693979822190" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
@@ -37,10 +37,10 @@
       <i c="141" l="1693846889422" />
     </e>
     <e n="EditorCopy">
-      <i c="261" l="1693908378014" />
+      <i c="262" l="1693978390029" />
     </e>
     <e n="EditorCut">
-      <i c="44" l="1693846846831" />
+      <i c="45" l="1693979771271" />
     </e>
     <e n="EditorDelete">
       <i c="519" l="1693908320504" />
@@ -55,13 +55,13 @@
       <i c="2" l="1693908321376" />
     </e>
     <e n="EditorEnter">
-      <i c="356" l="1693846908752" />
+      <i c="362" l="1693979820807" />
     </e>
     <e n="EditorIndentSelection">
       <i c="14" l="1693829900607" />
     </e>
     <e n="EditorLeft">
-      <i c="1368" l="1693850231169" />
+      <i c="1370" l="1693978737690" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="498" l="1693850233130" />
@@ -70,13 +70,13 @@
       <i c="111" l="1693845747337" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="211" l="1693842814002" />
+      <i c="215" l="1693979478837" />
     </e>
     <e n="EditorLineStart">
-      <i c="62" l="1693846853192" />
+      <i c="63" l="1693978506577" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="375" l="1693845747661" />
+      <i c="379" l="1693979479100" />
     </e>
     <e n="EditorPageDown">
       <i c="3" l="1693318876000" />
@@ -88,13 +88,13 @@
       <i c="3" l="1693315323185" />
     </e>
     <e n="EditorPaste">
-      <i c="208" l="1693908381434" />
+      <i c="212" l="1693979821055" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="1515" l="1693846357865" />
+      <i c="1517" l="1693978738912" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="450" l="1693845870756" />
@@ -112,22 +112,22 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="661" l="1693846823160" />
+      <i c="664" l="1693979821679" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="813" l="1693845621237" />
     </e>
     <e n="Find">
-      <i c="7" l="1693842798919" />
+      <i c="8" l="1693979631358" />
     </e>
     <e n="FindInPath">
       <i c="7" l="1693845641318" />
     </e>
     <e n="Forward">
-      <i c="2" l="1693810728849" />
+      <i c="3" l="1693979454614" />
     </e>
     <e n="GotoDeclaration">
-      <i c="218" l="1693908070252" />
+      <i c="229" l="1693979450959" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -157,13 +157,13 @@
       <i c="107" l="1693808861460" />
     </e>
     <e n="SaveAll">
-      <i c="112" l="1693908443401" />
+      <i c="140" l="1693979836193" />
     </e>
     <e n="Stop">
       <i c="19" l="1693455770806" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="8" l="1693832047199" />
+      <i c="10" l="1693978349935" />
     </e>
     <e n="Tree-selectNext">
       <i c="101" l="1693244975921" />
@@ -214,7 +214,7 @@
       <i c="8" l="1693845023087" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="5" l="1693832048434" />
+      <i c="7" l="1693978350925" />
     </e>
     <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
       <i c="1" l="1693026696980" />
