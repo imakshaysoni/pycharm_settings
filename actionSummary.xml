@@ -13,7 +13,7 @@
       <i c="75" l="1693986926843" />
     </e>
     <e n="$Undo">
-      <i c="284" l="1693908322830" />
+      <i c="290" l="1694008943483" />
     </e>
     <e n="Annotate">
       <i c="15" l="1693849412191" />
@@ -28,7 +28,7 @@
       <i c="27" l="1693830721032" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1818" l="1694007075621" />
+      <i c="1835" l="1694008947309" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
@@ -88,7 +88,7 @@
       <i c="3" l="1693315323185" />
     </e>
     <e n="EditorPaste">
-      <i c="218" l="1693986941815" />
+      <i c="221" l="1694008931459" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
@@ -121,13 +121,16 @@
       <i c="13" l="1693985479152" />
     </e>
     <e n="FindInPath">
-      <i c="7" l="1693845641318" />
+      <i c="10" l="1694008931087" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1694008788500" />
     </e>
     <e n="Forward">
       <i c="3" l="1693979454614" />
     </e>
     <e n="GotoDeclaration">
-      <i c="231" l="1693988705685" />
+      <i c="244" l="1694008970445" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -193,10 +196,10 @@
       <i c="1" l="1693985477169" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="1" l="1693845024701" />
+      <i c="3" l="1694008955796" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="4" l="1693825270367" />
+      <i c="6" l="1694008939038" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
       <i c="6" l="1693845646245" />
@@ -211,10 +214,10 @@
       <i c="1" l="1693808605226" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="12" l="1693845022226" />
+      <i c="22" l="1694008954102" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="8" l="1693845023087" />
+      <i c="12" l="1694008955277" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1693978350925" />
