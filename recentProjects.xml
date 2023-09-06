@@ -37,7 +37,7 @@
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1693989859927" />
+              <option name="activationTimestamp" value="1694007048264" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
@@ -64,7 +64,7 @@
         <entry key="$USER_HOME$/Documents/MyScripts">
           <value>
             <RecentProjectMetaInfo frameTitle="MyScripts – prepend_content.py" opened="true" projectWorkspaceId="2Q0rMtBds0twSduPFWH9ZOlMf7K">
-              <option name="activationTimestamp" value="1693989383489" />
+              <option name="activationTimestamp" value="1694007050382" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
@@ -111,6 +111,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali/scanner" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/MyScripts" />
   </component>
 </application>
