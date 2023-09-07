@@ -13,70 +13,70 @@
       <i c="87" l="1694070385478" />
     </e>
     <e n="$Undo">
-      <i c="307" l="1694076671036" />
+      <i c="325" l="1694081707769" />
     </e>
     <e n="Annotate">
       <i c="19" l="1694066518504" />
     </e>
     <e n="Back">
-      <i c="179" l="1694065751453" />
+      <i c="180" l="1694081945289" />
     </e>
     <e n="CloseAllEditors">
       <i c="7" l="1693977987056" />
     </e>
     <e n="CommentByLineComment">
-      <i c="36" l="1694066534881" />
+      <i c="37" l="1694081642754" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2069" l="1694079045812" />
+      <i c="2163" l="1694081692493" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="168" l="1694076887605" />
+      <i c="179" l="1694081717196" />
     </e>
     <e n="EditorCopy">
-      <i c="338" l="1694079873592" />
+      <i c="341" l="1694081633693" />
     </e>
     <e n="EditorCut">
-      <i c="54" l="1694076306856" />
+      <i c="57" l="1694081713388" />
     </e>
     <e n="EditorDelete">
-      <i c="539" l="1694078977153" />
+      <i c="541" l="1694081696098" />
     </e>
     <e n="EditorDown">
-      <i c="936" l="1694076296417" />
+      <i c="949" l="1694081711275" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="683" l="1694013475255" />
+      <i c="687" l="1694081102669" />
     </e>
     <e n="EditorDuplicate">
       <i c="3" l="1694066164956" />
     </e>
     <e n="EditorEnter">
-      <i c="404" l="1694076668706" />
+      <i c="414" l="1694081691259" />
     </e>
     <e n="EditorIndentSelection">
-      <i c="14" l="1693829900607" />
+      <i c="15" l="1694081103339" />
     </e>
     <e n="EditorLeft">
-      <i c="1465" l="1694079048266" />
+      <i c="1569" l="1694081680080" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="516" l="1694017178386" />
+      <i c="527" l="1694081538384" />
     </e>
     <e n="EditorLineEnd">
-      <i c="120" l="1694059951387" />
+      <i c="122" l="1694081271718" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="217" l="1694060966516" />
     </e>
     <e n="EditorLineStart">
-      <i c="64" l="1694075684507" />
+      <i c="66" l="1694081644801" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="401" l="1694076922787" />
+      <i c="404" l="1694081165152" />
     </e>
     <e n="EditorPageDown">
       <i c="4" l="1694016554456" />
@@ -88,16 +88,16 @@
       <i c="4" l="1694016553675" />
     </e>
     <e n="EditorPaste">
-      <i c="288" l="1694079878568" />
+      <i c="292" l="1694081691507" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="1595" l="1694076311418" />
+      <i c="1686" l="1694081718177" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="482" l="1694016460376" />
+      <i c="511" l="1694081685654" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1693314205478" />
@@ -112,10 +112,10 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="681" l="1694075600694" />
+      <i c="692" l="1694081692043" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="878" l="1694013474843" />
+      <i c="879" l="1694081711863" />
     </e>
     <e n="Find">
       <i c="15" l="1694067435408" />
@@ -130,7 +130,7 @@
       <i c="3" l="1693979454614" />
     </e>
     <e n="GotoDeclaration">
-      <i c="366" l="1694076949204" />
+      <i c="381" l="1694081944186" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -163,7 +163,7 @@
       <i c="119" l="1694016092381" />
     </e>
     <e n="SaveAll">
-      <i c="231" l="1694079879235" />
+      <i c="236" l="1694081965162" />
     </e>
     <e n="ShowSettings">
       <i c="3" l="1694016015578" />
@@ -223,7 +223,7 @@
       <i c="9" l="1693831951510" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="16" l="1694060132166" />
+      <i c="17" l="1694081916001" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1693808605226" />
