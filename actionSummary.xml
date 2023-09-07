@@ -13,7 +13,7 @@
       <i c="87" l="1694070385478" />
     </e>
     <e n="$Undo">
-      <i c="306" l="1694070448997" />
+      <i c="307" l="1694076671036" />
     </e>
     <e n="Annotate">
       <i c="19" l="1694066518504" />
@@ -28,25 +28,25 @@
       <i c="36" l="1694066534881" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2003" l="1694067701386" />
+      <i c="2068" l="1694076693187" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="164" l="1694066503953" />
+      <i c="168" l="1694076887605" />
     </e>
     <e n="EditorCopy">
-      <i c="330" l="1694070398022" />
+      <i c="337" l="1694076963646" />
     </e>
     <e n="EditorCut">
-      <i c="53" l="1694067695671" />
+      <i c="54" l="1694076306856" />
     </e>
     <e n="EditorDelete">
       <i c="538" l="1694067674558" />
     </e>
     <e n="EditorDown">
-      <i c="930" l="1694067700814" />
+      <i c="936" l="1694076296417" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="683" l="1694013475255" />
@@ -55,13 +55,13 @@
       <i c="3" l="1694066164956" />
     </e>
     <e n="EditorEnter">
-      <i c="401" l="1694067697682" />
+      <i c="404" l="1694076668706" />
     </e>
     <e n="EditorIndentSelection">
       <i c="14" l="1693829900607" />
     </e>
     <e n="EditorLeft">
-      <i c="1445" l="1694066087642" />
+      <i c="1464" l="1694076884267" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="516" l="1694017178386" />
@@ -73,10 +73,10 @@
       <i c="217" l="1694060966516" />
     </e>
     <e n="EditorLineStart">
-      <i c="63" l="1693978506577" />
+      <i c="64" l="1694075684507" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="399" l="1694067658954" />
+      <i c="401" l="1694076922787" />
     </e>
     <e n="EditorPageDown">
       <i c="4" l="1694016554456" />
@@ -88,13 +88,13 @@
       <i c="4" l="1694016553675" />
     </e>
     <e n="EditorPaste">
-      <i c="279" l="1694070401325" />
+      <i c="286" l="1694076980022" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="1594" l="1694066109325" />
+      <i c="1595" l="1694076311418" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="482" l="1694016460376" />
@@ -112,7 +112,7 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="677" l="1694067699611" />
+      <i c="681" l="1694075600694" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="878" l="1694013474843" />
@@ -121,7 +121,7 @@
       <i c="15" l="1694067435408" />
     </e>
     <e n="FindInPath">
-      <i c="15" l="1694067296831" />
+      <i c="16" l="1694076846644" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1694008788500" />
@@ -130,7 +130,7 @@
       <i c="3" l="1693979454614" />
     </e>
     <e n="GotoDeclaration">
-      <i c="352" l="1694070228242" />
+      <i c="366" l="1694076949204" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -163,7 +163,7 @@
       <i c="119" l="1694016092381" />
     </e>
     <e n="SaveAll">
-      <i c="227" l="1694070402550" />
+      <i c="230" l="1694076982007" />
     </e>
     <e n="ShowSettings">
       <i c="3" l="1694016015578" />
@@ -208,7 +208,7 @@
       <i c="1" l="1693985477169" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="6" l="1694060346481" />
+      <i c="7" l="1694076869697" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="9" l="1694067309539" />
@@ -232,10 +232,10 @@
       <i c="1" l="1694015205014" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="50" l="1694067319875" />
+      <i c="66" l="1694076943380" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="29" l="1694067318673" />
+      <i c="41" l="1694076941764" />
     </e>
     <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
       <i c="2" l="1694016020455" />
