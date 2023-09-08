@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Documents/denali/data_scanner">
-          <value>
-            <RecentProjectMetaInfo frameTitle="data_scanner – lambda_handler.py" projectWorkspaceId="2OYp0UAM1wo0Ta2T0NwIsqiboYT">
-              <option name="activationTimestamp" value="1693292356967" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PC-232.9559.58" />
-              <option name="buildTimestamp" value="1692721023592" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PC" />
-              <option name="projectOpenTimestamp" value="1693292250514" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/denali/scanner_lambda">
           <value>
             <RecentProjectMetaInfo frameTitle="scanner_lambda – lambda_function.py" projectWorkspaceId="2UeFu1CpkTuPr7Ut5nd4mpN2y8X">
@@ -51,11 +35,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/denali">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1694160730312" />
+            <RecentProjectMetaInfo frameTitle="denali – s3.py" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
+              <option name="activationTimestamp" value="1694161396641" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1693304810957" />
             </RecentProjectMetaInfo>
@@ -109,8 +97,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/denali/data_scanner">
+          <value>
+            <RecentProjectMetaInfo frameTitle="data_scanner – lambda_handler.py" opened="true" projectWorkspaceId="2OYp0UAM1wo0Ta2T0NwIsqiboYT">
+              <option name="activationTimestamp" value="1694162579745" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-232.9559.58" />
+              <option name="buildTimestamp" value="1692721049640" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1694161397177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali/data_scanner" />
   </component>
 </application>

@@ -19,22 +19,25 @@
       <i c="87" l="1694070385478" />
     </e>
     <e n="$Undo">
-      <i c="484" l="1694109954981" />
+      <i c="486" l="1694162018628" />
     </e>
     <e n="Annotate">
       <i c="21" l="1694087786066" />
     </e>
     <e n="Back">
-      <i c="203" l="1694102577740" />
+      <i c="204" l="1694161876468" />
     </e>
     <e n="CloseAllEditors">
       <i c="7" l="1693977987056" />
+    </e>
+    <e n="CloseAllEditorsButActive">
+      <i c="1" l="1694161253028" />
     </e>
     <e n="CommentByLineComment">
       <i c="42" l="1694106700302" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2579" l="1694160062810" />
+      <i c="2591" l="1694162013348" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693213530935" />
@@ -43,13 +46,13 @@
       <i c="220" l="1694157219562" />
     </e>
     <e n="EditorCopy">
-      <i c="401" l="1694157121615" />
+      <i c="418" l="1694162592159" />
     </e>
     <e n="EditorCut">
-      <i c="61" l="1694106593604" />
+      <i c="63" l="1694162011271" />
     </e>
     <e n="EditorDelete">
-      <i c="611" l="1694157166382" />
+      <i c="616" l="1694161846263" />
     </e>
     <e n="EditorDown">
       <i c="1057" l="1694157336234" />
@@ -61,7 +64,7 @@
       <i c="3" l="1694066164956" />
     </e>
     <e n="EditorEnter">
-      <i c="473" l="1694157127784" />
+      <i c="480" l="1694161957439" />
     </e>
     <e n="EditorIndentSelection">
       <i c="17" l="1694101102225" />
@@ -73,16 +76,16 @@
       <i c="576" l="1694157297053" />
     </e>
     <e n="EditorLineEnd">
-      <i c="132" l="1694157337362" />
+      <i c="134" l="1694161820154" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="262" l="1694160142051" />
     </e>
     <e n="EditorLineStart">
-      <i c="77" l="1694110442311" />
+      <i c="79" l="1694161992920" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="458" l="1694160142378" />
+      <i c="459" l="1694161769122" />
     </e>
     <e n="EditorPageDown">
       <i c="4" l="1694016554456" />
@@ -94,13 +97,13 @@
       <i c="4" l="1694016553675" />
     </e>
     <e n="EditorPaste">
-      <i c="336" l="1694157129682" />
+      <i c="355" l="1694162017275" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1693318959077" />
     </e>
     <e n="EditorRight">
-      <i c="2141" l="1694160068676" />
+      <i c="2143" l="1694161866805" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="618" l="1694157317212" />
@@ -127,10 +130,10 @@
       <i c="970" l="1694157338679" />
     </e>
     <e n="Find">
-      <i c="19" l="1694089278749" />
+      <i c="20" l="1694161935409" />
     </e>
     <e n="FindInPath">
-      <i c="19" l="1694106787139" />
+      <i c="21" l="1694162016031" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1694008788500" />
@@ -139,7 +142,7 @@
       <i c="4" l="1694087718935" />
     </e>
     <e n="GotoDeclaration">
-      <i c="471" l="1694160132493" />
+      <i c="482" l="1694161875332" />
     </e>
     <e n="NewDir">
       <i c="6" l="1693829373471" />
@@ -151,7 +154,7 @@
       <i c="1" l="1693231587766" />
     </e>
     <e n="OpenFile">
-      <i c="9" l="1693455114002" />
+      <i c="10" l="1694161390943" />
     </e>
     <e n="RenameElement">
       <i c="17" l="1694149824210" />
@@ -208,7 +211,7 @@
       <i c="1" l="1694011770672" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="18" l="1694067437630" />
+      <i c="24" l="1694161943896" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="10" l="1694067277913" />
@@ -223,16 +226,16 @@
       <i c="9" l="1694067309539" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
-      <i c="10" l="1694092355942" />
+      <i c="13" l="1694162020297" />
     </e>
     <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
       <i c="1" l="1694015922964" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
-      <i c="12" l="1694087657254" />
+      <i c="13" l="1694162030843" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="19" l="1694101199631" />
+      <i c="20" l="1694161260422" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="2" l="1694092243580" />
@@ -241,7 +244,7 @@
       <i c="1" l="1694015205014" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="78" l="1694106797636" />
+      <i c="81" l="1694161983974" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="56" l="1694106798753" />
