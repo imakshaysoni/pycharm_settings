@@ -21,7 +21,7 @@
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1694532152939" />
+              <option name="activationTimestamp" value="1694533819726" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721023592" />
@@ -30,22 +30,6 @@
               </option>
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1693292507188" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Documents/denali">
-          <value>
-            <RecentProjectMetaInfo frameTitle="denali – s3.py" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1694161396641" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PC-232.9559.58" />
-              <option name="buildTimestamp" value="1692721023592" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PC" />
-              <option name="projectOpenTimestamp" value="1693304810957" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -100,7 +84,7 @@
         <entry key="$USER_HOME$/Documents/denali/data_scanner">
           <value>
             <RecentProjectMetaInfo frameTitle="data_scanner – lambda_handler.py" opened="true" projectWorkspaceId="2OYp0UAM1wo0Ta2T0NwIsqiboYT">
-              <option name="activationTimestamp" value="1694512772488" />
+              <option name="activationTimestamp" value="1694533364916" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
@@ -110,6 +94,22 @@
               <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1694501910410" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/denali">
+          <value>
+            <RecentProjectMetaInfo frameTitle="denali – s3.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
+              <option name="activationTimestamp" value="1694533816296" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-232.9559.58" />
+              <option name="buildTimestamp" value="1692721071188" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1694533365319" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
