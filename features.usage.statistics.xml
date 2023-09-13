@@ -27,7 +27,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="894" last-shown="0" last-used="1694600701522" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="899" last-shown="0" last-used="1694603536599" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="2" last-shown="0" last-used="1693382234434" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -99,7 +99,7 @@
       <option name="lastDate" value="1694543400000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="91" />
+      <option name="invocations" value="93" />
       <option name="startDate" value="1692988200000" />
       <option name="dayCount" value="12" />
       <option name="lastDate" value="1694543400000" />
