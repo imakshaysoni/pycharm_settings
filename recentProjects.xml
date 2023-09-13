@@ -82,26 +82,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Documents/denali">
-          <value>
-            <RecentProjectMetaInfo frameTitle="denali – constants.py" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1694583398519" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PC-232.9559.58" />
-              <option name="buildTimestamp" value="1692721071188" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PC" />
-              <option name="projectOpenTimestamp" value="1694533365319" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
             <RecentProjectMetaInfo frameTitle="scanner – planner.py" opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1694597513124" />
+              <option name="activationTimestamp" value="1694600697404" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
@@ -111,6 +95,22 @@
               <frame x="256" y="514" width="1400" height="1074" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1694587891959" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/denali">
+          <value>
+            <RecentProjectMetaInfo frameTitle="denali – constants.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
+              <option name="activationTimestamp" value="1694598415773" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-232.9559.58" />
+              <option name="buildTimestamp" value="1692721071188" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1694598415905" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
