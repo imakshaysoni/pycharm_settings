@@ -28,7 +28,7 @@
       <i c="358" l="1694532176695" />
     </e>
     <e n="CloseAllEditors">
-      <i c="10" l="1694503999123" />
+      <i c="11" l="1694581587422" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="1" l="1694161253028" />
@@ -49,7 +49,7 @@
       <i c="336" l="1694512789672" />
     </e>
     <e n="EditorCopy">
-      <i c="632" l="1694532170225" />
+      <i c="633" l="1694581605244" />
     </e>
     <e n="EditorCut">
       <i c="79" l="1694503711528" />
@@ -91,7 +91,7 @@
       <i c="102" l="1694505486332" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="512" l="1694512212188" />
+      <i c="513" l="1694581602443" />
     </e>
     <e n="EditorNextWord">
       <i c="4" l="1694427291831" />
@@ -145,7 +145,7 @@
       <i c="2" l="1694502567707" />
     </e>
     <e n="Find">
-      <i c="37" l="1694512856766" />
+      <i c="38" l="1694581606182" />
     </e>
     <e n="FindInPath">
       <i c="29" l="1694172379133" />
@@ -157,7 +157,7 @@
       <i c="5" l="1694422799083" />
     </e>
     <e n="GotoDeclaration">
-      <i c="765" l="1694533849461" />
+      <i c="768" l="1694581598434" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
@@ -232,7 +232,7 @@
       <i c="1" l="1694011770672" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="103" l="1694503882085" />
+      <i c="128" l="1694581636721" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="20" l="1694503467899" />
@@ -259,7 +259,7 @@
       <i c="19" l="1694503912892" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="34" l="1694503977951" />
+      <i c="35" l="1694581640199" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="1" l="1694502399190" />
