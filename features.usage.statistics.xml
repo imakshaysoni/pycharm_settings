@@ -27,7 +27,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="942" last-shown="0" last-used="1694673488618" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="949" last-shown="0" last-used="1694682612247" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="2" last-shown="0" last-used="1693382234434" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -62,7 +62,7 @@
     <feature id="navigation.find" count="47" last-shown="0" last-used="1694603664802" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="1" last-shown="0" last-used="1693213530961" shown-count="0" />
+    <feature id="editing.completion.basic" count="3" last-shown="0" last-used="1694679880785" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable.incompleteStatement" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -93,7 +93,7 @@
     <feature id="navigation.find.usages" count="1" last-shown="0" last-used="1694008788627" shown-count="0" />
     <completionStatsTag>
       <option name="sparedCharacters" value="2620" />
-      <option name="invocations" value="355" />
+      <option name="invocations" value="357" />
       <option name="startDate" value="1692988200000" />
       <option name="dayCount" value="13" />
       <option name="lastDate" value="1694629800000" />

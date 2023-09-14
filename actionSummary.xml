@@ -43,10 +43,10 @@
       <i c="1" l="1694669776010" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3824" l="1694673423089" />
+      <i c="3847" l="1694680458207" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1" l="1693213530935" />
+      <i c="3" l="1694679880733" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="377" l="1694673424694" />
@@ -55,16 +55,16 @@
       <i c="744" l="1694673341130" />
     </e>
     <e n="EditorCut">
-      <i c="92" l="1694673306576" />
+      <i c="118" l="1694680451920" />
     </e>
     <e n="EditorDelete">
-      <i c="964" l="1694671525654" />
+      <i c="975" l="1694680060774" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="2" l="1694503300501" />
     </e>
     <e n="EditorDown">
-      <i c="1353" l="1694673426953" />
+      <i c="1411" l="1694680435897" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="965" l="1694605050018" />
@@ -73,28 +73,28 @@
       <i c="4" l="1694586115979" />
     </e>
     <e n="EditorEnter">
-      <i c="721" l="1694673416621" />
+      <i c="745" l="1694680456631" />
     </e>
     <e n="EditorIndentSelection">
       <i c="31" l="1694673428888" />
     </e>
     <e n="EditorLeft">
-      <i c="2651" l="1694673420803" />
+      <i c="2671" l="1694679961176" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="715" l="1694608461376" />
     </e>
     <e n="EditorLineEnd">
-      <i c="219" l="1694605128422" />
+      <i c="228" l="1694682577475" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="411" l="1694673339601" />
+      <i c="416" l="1694682582687" />
     </e>
     <e n="EditorLineStart">
       <i c="109" l="1694603689485" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="722" l="1694673428300" />
+      <i c="734" l="1694682582441" />
     </e>
     <e n="EditorNextWord">
       <i c="4" l="1694427291831" />
@@ -109,13 +109,13 @@
       <i c="4" l="1694016553675" />
     </e>
     <e n="EditorPaste">
-      <i c="578" l="1694673417683" />
+      <i c="604" l="1694680456911" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1694424029263" />
     </e>
     <e n="EditorRight">
-      <i c="3009" l="1694673429185" />
+      <i c="3049" l="1694680314385" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="805" l="1694592308906" />
@@ -124,7 +124,7 @@
       <i c="1" l="1694087276166" />
     </e>
     <e n="EditorSplitLine">
-      <i c="1" l="1693314205478" />
+      <i c="2" l="1694679842942" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1694505435525" />
@@ -136,10 +136,10 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="1000" l="1694671524696" />
+      <i c="1066" l="1694680457208" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="1083" l="1694673427244" />
+      <i c="1086" l="1694680311340" />
     </e>
     <e n="ExpandAllRegions">
       <i c="1" l="1694502571927" />
@@ -160,7 +160,7 @@
       <i c="5" l="1694422799083" />
     </e>
     <e n="GotoDeclaration">
-      <i c="942" l="1694673488604" />
+      <i c="949" l="1694682612240" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
