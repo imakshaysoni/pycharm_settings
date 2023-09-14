@@ -27,7 +27,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="995" last-shown="0" last-used="1694695008045" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="1006" last-shown="0" last-used="1694696902554" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="2" last-shown="0" last-used="1693382234434" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -59,7 +59,7 @@
     <feature id="navigation.inheritance.hierarchy" count="1" last-shown="0" last-used="1693808409278" shown-count="0" />
     <feature id="editing.duplicate" count="4" last-shown="0" last-used="1694586115984" shown-count="0" />
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="53" last-shown="0" last-used="1694695038399" shown-count="0" />
+    <feature id="navigation.find" count="55" last-shown="0" last-used="1694696807968" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="3" last-shown="0" last-used="1694679880785" shown-count="0" />
