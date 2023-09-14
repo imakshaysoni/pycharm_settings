@@ -19,7 +19,7 @@
       <i c="105" l="1694686977534" />
     </e>
     <e n="$Undo">
-      <i c="654" l="1694684427778" />
+      <i c="656" l="1694691681842" />
     </e>
     <e n="Annotate">
       <i c="31" l="1694587673085" />
@@ -37,13 +37,13 @@
       <i c="3" l="1694505327205" />
     </e>
     <e n="CommentByLineComment">
-      <i c="59" l="1694685120546" />
+      <i c="61" l="1694691686929" />
     </e>
     <e n="DebugClass">
       <i c="1" l="1694669776010" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3907" l="1694686977592" />
+      <i c="3911" l="1694692397370" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1694679880733" />
@@ -58,7 +58,7 @@
       <i c="118" l="1694680451920" />
     </e>
     <e n="EditorDelete">
-      <i c="985" l="1694687232852" />
+      <i c="988" l="1694692401983" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="2" l="1694503300501" />
@@ -136,10 +136,10 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="1071" l="1694685130314" />
+      <i c="1072" l="1694692400599" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="1086" l="1694680311340" />
+      <i c="1087" l="1694692401516" />
     </e>
     <e n="ExpandAllRegions">
       <i c="1" l="1694502571927" />
@@ -160,7 +160,7 @@
       <i c="5" l="1694422799083" />
     </e>
     <e n="GotoDeclaration">
-      <i c="973" l="1694686810846" />
+      <i c="976" l="1694692450968" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
@@ -265,7 +265,7 @@
       <i c="1" l="1694015922964" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
-      <i c="20" l="1694673455291" />
+      <i c="22" l="1694692605227" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="39" l="1694684860484" />
