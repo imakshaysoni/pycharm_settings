@@ -16,7 +16,7 @@
       <i c="4" l="1694582503672" />
     </e>
     <e n="$SelectAll">
-      <i c="103" l="1694603667695" />
+      <i c="105" l="1694686977534" />
     </e>
     <e n="$Undo">
       <i c="654" l="1694684427778" />
@@ -43,7 +43,7 @@
       <i c="1" l="1694669776010" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3906" l="1694685087763" />
+      <i c="3907" l="1694686977592" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1694679880733" />
@@ -58,7 +58,7 @@
       <i c="118" l="1694680451920" />
     </e>
     <e n="EditorDelete">
-      <i c="984" l="1694685124170" />
+      <i c="985" l="1694687232852" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="2" l="1694503300501" />
@@ -151,7 +151,7 @@
       <i c="48" l="1694684682745" />
     </e>
     <e n="FindInPath">
-      <i c="42" l="1694685160837" />
+      <i c="43" l="1694686833930" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1694008788500" />
@@ -160,7 +160,7 @@
       <i c="5" l="1694422799083" />
     </e>
     <e n="GotoDeclaration">
-      <i c="971" l="1694685333311" />
+      <i c="973" l="1694686810846" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
@@ -214,7 +214,7 @@
       <i c="19" l="1694599609978" />
     </e>
     <e n="Tree-selectNext">
-      <i c="101" l="1693244975921" />
+      <i c="103" l="1694687063779" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="4" l="1693304818020" />
@@ -256,7 +256,7 @@
       <i c="13" l="1694603692315" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="15" l="1694673377138" />
+      <i c="17" l="1694686992367" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
       <i c="13" l="1694162020297" />
@@ -280,10 +280,10 @@
       <i c="1" l="1694015205014" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="362" l="1694685176810" />
+      <i c="603" l="1694687060895" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="325" l="1694685177949" />
+      <i c="333" l="1694686951026" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="1" l="1694089265674" />
