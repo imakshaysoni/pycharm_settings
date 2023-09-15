@@ -69,7 +69,7 @@
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
             <RecentProjectMetaInfo frameTitle="scanner – planner.py" opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1694758549600" />
+              <option name="activationTimestamp" value="1694760217981" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
@@ -85,7 +85,7 @@
         <entry key="$USER_HOME$/Documents/denali">
           <value>
             <RecentProjectMetaInfo frameTitle="denali – constants.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1694701590656" />
+              <option name="activationTimestamp" value="1694760214664" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
@@ -101,7 +101,7 @@
         <entry key="$USER_HOME$/Documents/MyScripts">
           <value>
             <RecentProjectMetaInfo frameTitle="MyScripts – get_cloudwatch_metric_details.py" opened="true" projectWorkspaceId="2Q0rMtBds0twSduPFWH9ZOlMf7K">
-              <option name="activationTimestamp" value="1694758553543" />
+              <option name="activationTimestamp" value="1694759868009" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
@@ -116,6 +116,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/MyScripts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali/scanner" />
   </component>
 </application>
