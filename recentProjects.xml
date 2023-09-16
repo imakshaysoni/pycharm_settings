@@ -68,15 +68,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
-            <RecentProjectMetaInfo frameTitle="scanner – planner.py" opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1694776470988" />
+            <RecentProjectMetaInfo frameTitle="scanner – planner.py" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
+              <option name="activationTimestamp" value="1694847948552" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="256" y="514" width="1400" height="1074" extendedState="6" />
+              <frame x="394" y="254" width="1390" height="826" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1694587891959" />
             </RecentProjectMetaInfo>
@@ -84,15 +84,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/denali">
           <value>
-            <RecentProjectMetaInfo frameTitle="denali – constants.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1694764610258" />
+            <RecentProjectMetaInfo frameTitle="denali – discovery.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
+              <option name="activationTimestamp" value="1694847955973" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="296" y="53" width="1400" height="1000" extendedState="6" />
+              <frame x="113" y="36" width="1390" height="1044" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1694598415905" />
             </RecentProjectMetaInfo>
@@ -100,15 +100,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/MyScripts">
           <value>
-            <RecentProjectMetaInfo frameTitle="MyScripts – get_cloudwatch_metric_details.py" opened="true" projectWorkspaceId="2Q0rMtBds0twSduPFWH9ZOlMf7K">
-              <option name="activationTimestamp" value="1694771387409" />
+            <RecentProjectMetaInfo frameTitle="MyScripts – list_all_aws_resources_all_regions.py" projectWorkspaceId="2Q0rMtBds0twSduPFWH9ZOlMf7K">
+              <option name="activationTimestamp" value="1694847952610" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="72" y="27" width="1848" height="1053" extendedState="7" />
+              <frame x="72" y="27" width="1848" height="1053" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1694668579620" />
             </RecentProjectMetaInfo>
@@ -116,6 +116,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali/scanner" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/denali" />
   </component>
 </application>
