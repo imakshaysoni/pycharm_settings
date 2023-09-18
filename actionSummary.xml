@@ -25,7 +25,7 @@
       <i c="35" l="1694772934662" />
     </e>
     <e n="Back">
-      <i c="451" l="1695021106459" />
+      <i c="455" l="1695030430513" />
     </e>
     <e n="CWMHostShowPopupAction">
       <i c="1" l="1694694486071" />
@@ -40,13 +40,13 @@
       <i c="3" l="1694505327205" />
     </e>
     <e n="CommentByLineComment">
-      <i c="74" l="1694772695521" />
+      <i c="76" l="1695029932467" />
     </e>
     <e n="DebugClass">
       <i c="1" l="1694669776010" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4457" l="1695021108540" />
+      <i c="4460" l="1695030412626" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1695015704374" />
@@ -55,7 +55,7 @@
       <i c="444" l="1695017209888" />
     </e>
     <e n="EditorCopy">
-      <i c="844" l="1695028378406" />
+      <i c="846" l="1695030522052" />
     </e>
     <e n="EditorCut">
       <i c="128" l="1695016359108" />
@@ -79,13 +79,13 @@
       <i c="860" l="1695017227740" />
     </e>
     <e n="EditorIndentSelection">
-      <i c="39" l="1695017224786" />
+      <i c="40" l="1695029936215" />
     </e>
     <e n="EditorLeft">
       <i c="3138" l="1695020408464" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1009" l="1695015621442" />
+      <i c="1010" l="1695030521485" />
     </e>
     <e n="EditorLineEnd">
       <i c="283" l="1695016762726" />
@@ -112,7 +112,7 @@
       <i c="6" l="1694774544271" />
     </e>
     <e n="EditorPaste">
-      <i c="715" l="1695021108792" />
+      <i c="722" l="1695030395141" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1694424029263" />
@@ -151,10 +151,10 @@
       <i c="2" l="1694502567707" />
     </e>
     <e n="Find">
-      <i c="65" l="1695017323444" />
+      <i c="67" l="1695030359802" />
     </e>
     <e n="FindInPath">
-      <i c="51" l="1695017331351" />
+      <i c="52" l="1695030373545" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1694008788500" />
@@ -163,13 +163,13 @@
       <i c="7" l="1695015455303" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1125" l="1695021104138" />
+      <i c="1131" l="1695030576530" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
     </e>
     <e n="HideAllWindows">
-      <i c="1" l="1694694487265" />
+      <i c="2" l="1695029893901" />
     </e>
     <e n="NewDir">
       <i c="7" l="1694420260080" />
@@ -256,7 +256,7 @@
       <i c="1" l="1694011770672" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="239" l="1694763617332" />
+      <i c="241" l="1695030365239" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="75" l="1694696693592" />
@@ -298,10 +298,10 @@
       <i c="1" l="1694015205014" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="804" l="1695017350640" />
+      <i c="812" l="1695030420780" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="451" l="1695017341496" />
+      <i c="454" l="1695030419352" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="1" l="1694089265674" />
