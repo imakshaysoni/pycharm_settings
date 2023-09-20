@@ -46,7 +46,7 @@
       <i c="1" l="1694669776010" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4816" l="1695192871892" />
+      <i c="4821" l="1695193284779" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1695015704374" />
@@ -151,7 +151,7 @@
       <i c="2" l="1694502567707" />
     </e>
     <e n="Find">
-      <i c="71" l="1695191394836" />
+      <i c="72" l="1695193276322" />
     </e>
     <e n="FindInPath">
       <i c="55" l="1695036607809" />
@@ -163,7 +163,7 @@
       <i c="10" l="1695191934202" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1221" l="1695193096852" />
+      <i c="1223" l="1695193822430" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
@@ -268,10 +268,10 @@
       <i c="2" l="1694424594012" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.ToggleMatchCase">
-      <i c="3" l="1695191402296" />
+      <i c="4" l="1695193286926" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.ToggleWholeWordsOnlyAction">
-      <i c="1" l="1695191405729" />
+      <i c="3" l="1695193289026" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="16" l="1695017353762" />
@@ -286,7 +286,7 @@
       <i c="1" l="1694015922964" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="1" l="1694771664363" />
+      <i c="2" l="1695193273267" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="25" l="1695193075126" />
