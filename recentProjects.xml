@@ -68,15 +68,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/denali">
           <value>
-            <RecentProjectMetaInfo frameTitle="denali – discovery.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
-              <option name="activationTimestamp" value="1695189263473" />
+            <RecentProjectMetaInfo frameTitle="denali – lambda_handler.py" opened="true" projectWorkspaceId="2NubJPPE7xzKvtTLSkua8rBL5II">
+              <option name="activationTimestamp" value="1695193035138" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721071188" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="113" y="36" width="1390" height="1044" />
+              <frame x="113" y="36" width="1390" height="1044" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1694598415905" />
             </RecentProjectMetaInfo>
@@ -101,14 +101,14 @@
         <entry key="$USER_HOME$/Documents/denali/scanner">
           <value>
             <RecentProjectMetaInfo frameTitle="scanner – planner.py" opened="true" projectWorkspaceId="2UeGCprqCc6vpAWKoiUlP5pSwTb">
-              <option name="activationTimestamp" value="1695189271573" />
+              <option name="activationTimestamp" value="1695193224701" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-232.9559.58" />
               <option name="buildTimestamp" value="1692721029119" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="394" y="254" width="1390" height="826" extendedState="6" />
+              <frame x="72" y="27" width="1848" height="1053" extendedState="6" />
               <option name="productionCode" value="PC" />
               <option name="projectOpenTimestamp" value="1695013024092" />
             </RecentProjectMetaInfo>
