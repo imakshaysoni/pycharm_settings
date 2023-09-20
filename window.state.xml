@@ -5,7 +5,7 @@
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1804" height="255" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1804" height="255" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1804" height="255" />
-    <size key="find.popup.0.0.1920.1080" width="759" height="744" />
+    <size key="find.popup.0.0.1920.1080" width="684" height="744" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1804" height="378" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1804" height="378" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1804" height="378" />
@@ -19,10 +19,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="244" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053" timestamp="1693026604835" />
-    <state width="890" height="104" key="ShowUsagesActions.dimensionServiceKey" timestamp="1695196413081">
+    <state width="890" height="280" key="ShowUsagesActions.dimensionServiceKey" timestamp="1695204314960">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="890" height="104" key="ShowUsagesActions.dimensionServiceKey/72.27.1848.1053" timestamp="1695196413081" />
+    <state width="890" height="280" key="ShowUsagesActions.dimensionServiceKey/72.27.1848.1053" timestamp="1695204314960" />
     <state width="852" height="104" key="ShowUsagesActions.dimensionServiceKey/72.27.1848.1053/0.0.1920.1080" timestamp="1695017307037" />
     <state width="885" height="192" key="ShowUsagesActions.dimensionServiceKey/72.27.1848.1053/1920.0.1920.1080" timestamp="1695034405852" />
     <state x="996" y="486" width="800" height="650" key="WELCOME_SCREEN" timestamp="1694587887181">

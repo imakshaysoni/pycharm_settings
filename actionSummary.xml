@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="14" l="1694762477234" />
+      <i c="15" l="1695204853454" />
     </e>
     <e n="$Cut">
       <i c="2" l="1694770505138" />
@@ -10,28 +10,28 @@
       <i c="14" l="1695037296080" />
     </e>
     <e n="$Paste">
-      <i c="5" l="1694770511279" />
+      <i c="6" l="1695204856500" />
     </e>
     <e n="$Redo">
       <i c="4" l="1694582503672" />
     </e>
     <e n="$SelectAll">
-      <i c="121" l="1695036609781" />
+      <i c="122" l="1695204153706" />
     </e>
     <e n="$Undo">
-      <i c="725" l="1695197530768" />
+      <i c="731" l="1695204868386" />
     </e>
     <e n="Annotate">
       <i c="37" l="1695191035478" />
     </e>
     <e n="Back">
-      <i c="513" l="1695200329531" />
+      <i c="515" l="1695204921153" />
     </e>
     <e n="CWMHostShowPopupAction">
       <i c="1" l="1694694486071" />
     </e>
     <e n="CloseAllEditors">
-      <i c="13" l="1695190241491" />
+      <i c="15" l="1695205089844" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="1" l="1694161253028" />
@@ -46,58 +46,58 @@
       <i c="1" l="1694669776010" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4917" l="1695200378150" />
+      <i c="4973" l="1695205903894" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1695015704374" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="478" l="1695198029391" />
+      <i c="491" l="1695204936097" />
     </e>
     <e n="EditorCopy">
-      <i c="921" l="1695197867253" />
+      <i c="945" l="1695204939168" />
     </e>
     <e n="EditorCut">
-      <i c="135" l="1695197490475" />
+      <i c="138" l="1695205094883" />
     </e>
     <e n="EditorDelete">
-      <i c="1322" l="1695198991175" />
+      <i c="1514" l="1695205119121" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="2" l="1694503300501" />
     </e>
     <e n="EditorDown">
-      <i c="1876" l="1695197926325" />
+      <i c="1891" l="1695204762100" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="1117" l="1695196979756" />
+      <i c="1119" l="1695204869791" />
     </e>
     <e n="EditorDuplicate">
       <i c="4" l="1694586115979" />
     </e>
     <e n="EditorEnter">
-      <i c="951" l="1695200350501" />
+      <i c="965" l="1695205050892" />
     </e>
     <e n="EditorIndentSelection">
       <i c="49" l="1695197402670" />
     </e>
     <e n="EditorLeft">
-      <i c="3423" l="1695198957217" />
+      <i c="3479" l="1695205908810" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1142" l="1695197024581" />
+      <i c="1156" l="1695204875566" />
     </e>
     <e n="EditorLineEnd">
-      <i c="327" l="1695200820238" />
+      <i c="338" l="1695204751017" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="475" l="1695197925496" />
+      <i c="477" l="1695204727784" />
     </e>
     <e n="EditorLineStart">
-      <i c="152" l="1695197925176" />
+      <i c="160" l="1695204436598" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="878" l="1695200820565" />
+      <i c="895" l="1695204948847" />
     </e>
     <e n="EditorNextWord">
       <i c="4" l="1694427291831" />
@@ -112,16 +112,16 @@
       <i c="6" l="1694774544271" />
     </e>
     <e n="EditorPaste">
-      <i c="788" l="1695197944590" />
+      <i c="813" l="1695204949289" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1694424029263" />
     </e>
     <e n="EditorRight">
-      <i c="3902" l="1695200196781" />
+      <i c="3942" l="1695205908947" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1004" l="1695197888885" />
+      <i c="1005" l="1695204589590" />
     </e>
     <e n="EditorScrollUp">
       <i c="1" l="1694087276166" />
@@ -139,10 +139,10 @@
       <i c="2" l="1693305527444" />
     </e>
     <e n="EditorUp">
-      <i c="1483" l="1695200188167" />
+      <i c="1490" l="1695204762424" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="1336" l="1695197891189" />
+      <i c="1348" l="1695204769986" />
     </e>
     <e n="ExpandAllRegions">
       <i c="1" l="1694502571927" />
@@ -151,10 +151,10 @@
       <i c="2" l="1694502567707" />
     </e>
     <e n="Find">
-      <i c="72" l="1695193276322" />
+      <i c="74" l="1695204951790" />
     </e>
     <e n="FindInPath">
-      <i c="55" l="1695036607809" />
+      <i c="57" l="1695204378021" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1694008788500" />
@@ -163,7 +163,7 @@
       <i c="10" l="1695191934202" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1259" l="1695201008486" />
+      <i c="1266" l="1695204701428" />
     </e>
     <e n="GotoSuperMethod">
       <i c="7" l="1694424681695" />
@@ -211,7 +211,7 @@
       <i c="159" l="1695037262504" />
     </e>
     <e n="SaveAll">
-      <i c="328" l="1695198960943" />
+      <i c="332" l="1695203105511" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1694684124902" />
@@ -259,7 +259,7 @@
       <i c="1" l="1694011770672" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="248" l="1695191414479" />
+      <i c="256" l="1695204959700" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="81" l="1695191411202" />
@@ -268,7 +268,7 @@
       <i c="2" l="1694424594012" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.ToggleMatchCase">
-      <i c="4" l="1695193286926" />
+      <i c="5" l="1695204954799" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.ToggleWholeWordsOnlyAction">
       <i c="3" l="1695193289026" />
@@ -277,10 +277,10 @@
       <i c="16" l="1695017353762" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="22" l="1695035395812" />
+      <i c="24" l="1695204382718" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
-      <i c="15" l="1695034423704" />
+      <i c="17" l="1695204158893" />
     </e>
     <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
       <i c="1" l="1694015922964" />
